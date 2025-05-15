@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "Cerita Si Kancil",
+      "description": "Kisah cerdik si Kancil dan Buaya.",
+      "drive_link": "https://drive.google.com/uc?export=download&id=FILE_ID_1",
+      "category": "Cerita",
+      "year": "2023",
+      "color": "bg-amber-100"
+    },
+    {
+      "id": 2,
+      "title": "Journey Into English",
+      "description": "English book for islamic studdents.",
+      "drive_link": "https://drive.google.com/uc?export=download&id=10kbBE4avIv_-UpAnjB95rEM9hZn2OakY",
+      "category": "Pelajaran",
+      "year": "2024",
+      "color": "bg-blue-100"
+    },
+    {
+      "id": 3,
+      "title": "Kumpulan Puisi",
+      "description": "Kumpulan puisi karya anak-anak.",
+      "drive_link": "https://drive.google.com/uc?export=download&id=FILE_ID_3",
+      "category": "Puisi",
+      "year": "2021",
+      "color": "bg-green-100"
+    },
+    {
+      "id": 4,
+      "title": "Buku Cerita Rakyat",
+      "description": "Cerita rakyat dari berbagai daerah.",
+      "drive_link": "https://drive.google.com/uc?export=download&id=FILE_ID_4",
+      "category": "Cerita",
+      "year": "2020",
+      "color": "bg-red-100"
+    },
+    {
+      "id": 5,
+      "title": "Kumpulan Cerita Pendek",
+      "description": "Cerita pendek untuk anak-anak.",
+      "drive_link": "https://drive.google.com/uc?export=download&id=FILE_ID_5",
+      "category": "Cerita",
+      "year": "2019",
+      "color": "bg-yellow-100"
+    },
+    {
+      "id": 6,
+      "title": "Buku Sains Kelas 4 SD",
+      "description": "Buku pelajaran sains semester 2.",
+      "drive_link": "https://drive.google.com/uc?export=download&id=FILE_ID_6",
+      "category": "Pelajaran",
+      "year": "2023",
+      "color": "bg-purple-100"
+    },
+    {
+      "id": 7,
+      "title": "Kumpulan Dongeng",
+      "description": "Dongeng untuk anak-anak.",
+      "drive_link": "https://drive.google.com/uc?export=download&id=FILE_ID_7",
+      "category": "Dongeng",
+      "year": "2022",
+      "color": "bg-pink-100"
+    },
+    {
+      "id": 8,
+      "title": "Buku Sejarah Kelas 5 SD",
+      "description": "Buku pelajaran sejarah semester 1.",
+      "drive_link": "https://drive.google.com/uc?export=download&id=FILE_ID_8",
+      "category": "Pelajaran",
+      "year": "2021",
+      "color": "bg-teal-100"
+    }
+  ]
